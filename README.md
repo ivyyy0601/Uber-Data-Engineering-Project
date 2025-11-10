@@ -15,7 +15,7 @@ The architecture follows a modern ELT approach:
 3. **Mage** is used as the orchestration/data pipeline tool.  
 4. Transformed data is loaded into **BigQuery**.  
 5. Visualizations and dashboards are built using **Looker Studio**.
-
+![Architecture](archi.jpg)
 ---
 
 ## ⚙️ Technology Used
